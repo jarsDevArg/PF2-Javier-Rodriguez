@@ -1,0 +1,198 @@
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\testhost.exe
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\testhost.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\nunit.engine.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\nunit.engine.api.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\nunit.engine.core.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\testcentric.engine.metadata.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\PF2 Javier Rodriguez.deps.json
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\PF2 Javier Rodriguez.runtimeconfig.json
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\PF2 Javier Rodriguez.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\PF2 Javier Rodriguez.pdb
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\nunit.framework.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Terciario\pruebas\PF2 MPF\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javier Rodriguez.csproj.AssemblyReference.cache
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javier Rodriguez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javier Rodriguez.AssemblyInfoInputs.cache
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javier Rodriguez.AssemblyInfo.cs
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javier Rodriguez.csproj.CoreCompileInputs.cache
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javi.8F9E6DB8.Up2Date
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javier Rodriguez.dll
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\refint\PF2 Javier Rodriguez.dll
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javier Rodriguez.pdb
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\PF2 Javier Rodriguez.genruntimeconfig.cache
+D:\Terciario\pruebas\PF2 MPF\obj\Debug\net8.0\ref\PF2 Javier Rodriguez.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\testhost.exe
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\testhost.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\nunit.engine.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\nunit.engine.api.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\nunit.engine.core.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\testcentric.engine.metadata.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\PF2 Javier Rodriguez.deps.json
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\PF2 Javier Rodriguez.runtimeconfig.json
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\PF2 Javier Rodriguez.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\PF2 Javier Rodriguez.pdb
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\Newtonsoft.Json.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\NuGet.Frameworks.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\nunit.framework.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javier Rodriguez.csproj.AssemblyReference.cache
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javier Rodriguez.GeneratedMSBuildEditorConfig.editorconfig
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javier Rodriguez.AssemblyInfoInputs.cache
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javier Rodriguez.AssemblyInfo.cs
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javier Rodriguez.csproj.CoreCompileInputs.cache
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javi.8F9E6DB8.Up2Date
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javier Rodriguez.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\refint\PF2 Javier Rodriguez.dll
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javier Rodriguez.pdb
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\PF2 Javier Rodriguez.genruntimeconfig.cache
+d:\Terciario\pruebas\PF2 Javier Rodriguez\obj\Debug\net8.0\ref\PF2 Javier Rodriguez.dll
