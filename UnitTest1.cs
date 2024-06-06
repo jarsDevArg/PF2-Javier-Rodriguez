@@ -41,7 +41,7 @@ public class Tests
         Product productoRelleno2 = new(3, "cosaRelleno2", 12, Product.CategoryName.Electronica);
         ProductManager.addProduct(ref productList, productoRelleno2);
 
-        Product? productoBuscado = ProductManager.findProductByName(productList, 2);
+        Product? productoBuscado = ProductManager.findProductById(productList, 2);
         Assert.That(productoBuscado, Is.EqualTo(productoParaEncontrar));
     }
 
@@ -98,7 +98,7 @@ public static class ProductManager{
         return totalPrice;
     }
 
-    public static Product? findProductByName(List<Product> productList, int productId){
+    public static Product? findProductById(List<Product> productList, int productId){
         Product? producto;
         try{
             producto = productList.Find(x => x.id == productId);
